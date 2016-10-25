@@ -1,0 +1,101 @@
+
+
+H3C Application	Git Source: GitHub: https://github.com/codemanjaa/H3C-Application
+
+Abstract:
+Haaga-Helia Healthcare [H3C Code project] aims to facilitate students to live the healthy life style. 
+
+Introduction:
+This application initial requirement is for an information system that is accessible through a web browser. The users of the application are employees of the college health care center who during their work need to view and manage information regarding the Doctor, Nurses, the students and some open data. The initial version support following:
+
+Use Cases:
+	View a list of doctors and nurses’ availability
+	View information about student
+	Update the information 
+	Add new student to the system
+	Booking appointment
+	View information Student Visitation History
+
+Business Rules:
+
+H3C Spring Application Design & Implementation
+
+Server Technology:
+The sample application should be usable with any Java EE web application container that is compatible with the Servlet and JSP. Some of the deployment files provided are designed specifically for Apache Tom cat. The view technologies that are to be used to rendering the application are Java Server Pages along Java Standard Tag Library(JSTL), REST Service.
+
+Database Technology:
+The H3C application uses a relational database for data storage. Support has been provided for a choice of different database technologies such as ORM(JPA), JDBC, H2 Databases, MySQL. 
+
+
+
+
+Development Environment:
+A copy of the Spring runtime library .jar file is provided with the application along with some of the required jar files. 
+o	Eclipse Luna
+o	Java SDK 1.8
+o	Tomcat V8.0
+o	JUnit
+The following is an overview of the database schema used in H3C. Detailed field descriptions can be found in the H3CDBInit.txt.
+
+
+
+H3C Application	Git Source: GitHub: https://github.com/codemanjaa/H3C-Application
+
+Abstract:
+Haaga-Helia Healthcare [H3C Code project] aims to facilitate students to live the healthy life style. 
+Introduction:
+This application initial requirement is for an information system that is accessible through a web browser. The users of the application are employees of the college health care center who during their work need to view and manage information regarding the Doctor, Nurses, the students and some open data. The initial version support following:
+
+Use Cases:
+	View a list of doctors and nurses’ availability
+	View information about student
+	Update the information 
+	Add new student to the system
+	Booking appointment
+	View information Student Visitation History
+
+Business Rules:
+
+H3C Spring Application Design & Implementation
+
+Server Technology:
+The sample application should be usable with any Java EE web application container that is compatible with the Servlet and JSP. Some of the deployment files provided are designed specifically for Apache Tom cat. The view technologies that are to be used to rendering the application are Java Server Pages along Java Standard Tag Library(JSTL), REST Service.
+
+Database Technology:
+The H3C application uses a relational database for data storage. Support has been provided for a choice of different database technologies such as ORM(JPA), JDBC, H2 Databases, MySQL. 
+
+
+
+
+Development Environment:
+A copy of the Spring runtime library .jar file is provided with the application along with some of the required jar files. 
+o	Eclipse Luna
+o	Java SDK 1.8
+o	Tomcat V8.0
+o	JUnit
+The following is an overview of the database schema used in H3C. Detailed field descriptions can be found in the H3CDBInit.txt.
+
+Table
+Doctor
+Nurse
+Student
+Booking
+VisitsHistory
+
+
+ 
+
+
+
+
+Doctor
+Nurse
+Student
+Booking
+VisitsHistory
+
+
+ 
+
+
+
